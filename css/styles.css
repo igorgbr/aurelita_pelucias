@@ -435,6 +435,11 @@ h6,
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
+  margin: 0 20%;
+}
+
+.lead img {
+  margin:0 5%
 }
 
 .display-1 {
